@@ -1,0 +1,22 @@
+.contain h2 {
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  column-gap: 15px;
+}
+
+.btnWrapper button {
+  font-size: 24px;
+}
+
+.spinner {
+  color: #333533;
+  height: 200px;
+  width: 200px;
+}

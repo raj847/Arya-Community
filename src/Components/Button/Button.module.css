@@ -1,0 +1,27 @@
+.btnDark,
+.btnLight {
+  border: none;
+  outline: none;
+  box-shadow: 1px 1px 4px 1px #00000020;
+  padding: 0.4rem 1rem;
+  border-radius: 7px;
+  transition: 0.3s ease-in-out;
+}
+.btnDark {
+  background-color: #333533;
+  border: 1px solid #333533;
+  color: white;
+}
+.btnLight {
+  background-color: white;
+  color: #333533;
+  border: 1px solid #333533;
+}
+
+.btnLight:hover {
+  background-color: #ebe8e8;
+}
+
+.btnDark:hover {
+  background-color: #444644;
+}

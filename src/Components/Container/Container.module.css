@@ -1,0 +1,12 @@
+.background {
+  padding: 1% 0;
+  min-height: 80vh;
+  z-index: -1;
+}
+
+.container {
+  width: 90%;
+  height: 100%;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}

@@ -1,0 +1,36 @@
+.nav {
+  background-color: #333533;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+  box-shadow: 0px 10px 20px 0px #00000040;
+}
+
+.scroll {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  /* background-color: lightblue; */
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  align-items: center;
+}
+.list li {
+  padding: 0 2rem;
+}
+
+.list a {
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+}
+
+.list .active {
+  color: #f5cb5c;
+}

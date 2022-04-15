@@ -1,0 +1,18 @@
+.contain {
+  margin-bottom: 20px;
+}
+
+.contain h3 {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.contain input {
+  width: 60%;
+  height: 50px;
+  margin-top: 10px;
+  padding: 2px 5px;
+  font-size: 16px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}

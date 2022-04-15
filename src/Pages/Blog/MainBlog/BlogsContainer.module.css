@@ -1,0 +1,18 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  row-gap: 10px;
+  column-gap: 7px;
+  margin-top: 10px;
+}
+
+.noBlogMessage {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.btn {
+  border-radius: 4px;
+  font-size: 16px;
+}

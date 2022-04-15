@@ -1,0 +1,11 @@
+.contain {
+  display: flex;
+  align-items: flex-start;
+  column-gap: 5px;
+  margin-bottom: 10px;
+}
+
+.contain h6 {
+  font-size: 18px;
+  font-weight: 500;
+}

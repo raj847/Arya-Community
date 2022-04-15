@@ -1,0 +1,18 @@
+.formControl {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.formControl label {
+  font-size: 26px;
+  margin-bottom: 5px;
+}
+
+.formControl input {
+  font-size: 24px;
+  border-radius: 5px;
+  border: 1px solid #333533;
+  padding: 1rem 0.7rem;
+  box-sizing: border-box;
+}

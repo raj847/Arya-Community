@@ -1,0 +1,11 @@
+.questionsWrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.contain h2 {
+  font-size: 36px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}

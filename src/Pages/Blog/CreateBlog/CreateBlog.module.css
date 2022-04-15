@@ -1,0 +1,23 @@
+.title {
+  font-size: 36px;
+  font-weight: 400;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  font-size: 26px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  column-gap: 15px;
+}
+
+.btnWrapper button {
+  font-size: 24px;
+}

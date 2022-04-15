@@ -1,0 +1,36 @@
+.contain {
+  margin-top: 25px;
+}
+
+.contain h3 {
+  font-size: 36px;
+  margin: 0;
+  font-weight: 400;
+}
+
+.contain p {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.inputWrapper {
+  display: flex;
+  column-gap: 20px;
+}
+
+.inputWrapper input {
+  border-radius: 4px;
+  font-size: 22px;
+  width: 150px;
+  padding: 5px;
+  border: 1px solid #333533;
+}
+
+.inputWrapper button {
+  font-size: 22px;
+  border-radius: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 400;
+}

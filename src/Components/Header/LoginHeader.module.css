@@ -1,0 +1,8 @@
+.btn {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.btn:first-child {
+  margin-right: 10px;
+}

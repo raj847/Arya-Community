@@ -1,0 +1,21 @@
+.contain h2 {
+  font-size: 36px;
+  color: #333533;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: #333533;
+  margin: 10px 0;
+}
+
+.contain {
+  margin-bottom: 20px;
+}
+
+.skeleton {
+  margin-bottom: 10px;
+}

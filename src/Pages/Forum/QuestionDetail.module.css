@@ -1,0 +1,38 @@
+.questionContain h2,
+.answerContain h2,
+.editorContain h2,
+.previewContain h2 {
+  font-size: 36px;
+  color: #333533;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.answerContain {
+  margin: 10px 0;
+}
+
+.card {
+  min-height: 150px;
+}
+
+.btnContain {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 10px;
+  margin-top: 20px;
+}
+
+.btnContain button {
+  font-size: 24px;
+}
+
+.spinnerContain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.spinner {
+  color: #333533;
+}

@@ -1,0 +1,25 @@
+.contain {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.contain h3 {
+  font-size: 36px;
+  margin: 0;
+  font-weight: 400;
+}
+
+.contain p {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.contain textarea {
+  width: 100%;
+  min-height: 90px;
+  padding: 5px 10px;
+  font-size: 18px;
+  box-sizing: border-box;
+  border-radius: 7px;
+}
